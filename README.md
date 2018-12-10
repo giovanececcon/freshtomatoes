@@ -14,3 +14,5 @@ Giovane Ceccon
 
 ## Como utilizar o *freshtomatoes*?
 
+A partir do arquivo `centro_de_entreterimento.py` você deve criar instancias de filmes.
+
