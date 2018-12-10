@@ -37,7 +37,7 @@ as_branquelas = filme.Filme(
     "AS BRANQUELAS", "https://upload.wikimedia.org/wikipedia/pt/d/de/White"
     "_chicks.jpeg", "https://www.youtube.com/watch?v=y5nr345eBQ0")
 
-# Adicionando todas as instancias em uma lista filmes.
+# Adicionando todas as instancias em uma lista filmes, para popular o site.
 filmes = [no_limite_do_amanha, os_vingadores, a_origem,
           animais_fantasticos, django, toy_story, x_man, as_branquelas]
 
