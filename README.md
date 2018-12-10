@@ -14,5 +14,5 @@ Giovane Ceccon
 
 ## Como utilizar o *freshtomatoes*?
 
-A partir do arquivo `centro_de_entreterimento.py` você deve criar instancias de filmes.
+A partir do arquivo `centro_de_entreterimento.py` você deve criar instancias de filmes, alimentando a instancia com o Titulo, URL do Cartaz e do vídeo do trailer no youtube.
 
