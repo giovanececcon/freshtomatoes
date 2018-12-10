@@ -14,6 +14,8 @@ Giovane Ceccon
 
 ## Como utilizar o *freshtomatoes*?
 
+#### Utilizando python 3.
+
 A partir do arquivo `centro_de_entreterimento.py` você deve criar instancias de filmes, alimentando a instancia com o Titulo, URL do Cartaz e do vídeo do trailer no youtube. 
 
 Ao executar o arquivo `centro_de_entreterimento.py`, será gerado um HTML e ele será aberto automaticamente no seu navegador padrão. Então é só navegar no seu site com seus filmes preferidos e assistir seus respectivos trailers.
