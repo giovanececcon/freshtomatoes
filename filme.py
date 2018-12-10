@@ -4,4 +4,3 @@ class Filme():
         self.titulo = titulo
         self.imagem_url = imagem_url
         self.trailer_youtube_url = trailer_youtube_url
-
